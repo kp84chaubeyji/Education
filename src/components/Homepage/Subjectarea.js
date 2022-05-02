@@ -26,7 +26,7 @@ const Subjectarea = () => {
                 <>
                   <div
                     className="col-xl-3 col-lg-4 col-md-6 d-flex"
-                    key={curElem}
+                    key={curElem.id}
                   >
                     <div
                       className="categories-item-02 flex-fill"

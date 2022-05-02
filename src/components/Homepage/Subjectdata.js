@@ -1,7 +1,7 @@
 const subjectdata = [
     {
         id: 1,
-        icon: 'assets/images/icon/s1.png',
+        icon: '../../assets/images/icon/s1.png',
         name: 'Art & Design',
         description: 'Fun & Challenging',
     },
