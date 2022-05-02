@@ -39,7 +39,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-01.jpg"
+                      src="education/assets/images/partners-logo/client-logo-01.jpg"
                       alt="Logo"
                       width="68"
                       height="92"
@@ -50,7 +50,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-04.jpg"
+                      src="education/assets/images/partners-logo/client-logo-04.jpg"
                       alt="Logo"
                       width="78"
                       height="91"
@@ -61,7 +61,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-05.jpg"
+                      src="education/assets/images/partners-logo/client-logo-05.jpg"
                       alt="Logo"
                       width="76"
                       height="91"
@@ -72,7 +72,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-06.jpg"
+                      src="education/assets/images/partners-logo/client-logo-06.jpg"
                       alt="Logo"
                       width="99"
                       height="71"
@@ -83,7 +83,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-07.jpg"
+                      src="education/assets/images/partners-logo/client-logo-07.jpg"
                       alt="Logo"
                       width="93"
                       height="72"
@@ -94,7 +94,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-10.jpg"
+                      src="education/assets/images/partners-logo/client-logo-10.jpg"
                       alt="Logo"
                       width="87"
                       height="75"
@@ -105,7 +105,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-11.jpg"
+                      src="education/assets/images/partners-logo/client-logo-11.jpg"
                       alt="Logo"
                       width="87"
                       height="78"
@@ -116,7 +116,7 @@ const Partners = () => {
                 <div className="partner-logo">
                   <div className="partner-logo__logo">
                     <img
-                      src="assets/images/partners-logo/client-logo-12.jpg"
+                      src="education/assets/images/partners-logo/client-logo-12.jpg"
                       alt="Logo"
                       width="107"
                       height="69"

@@ -90,7 +90,7 @@ const Home = () => {
         <div className="counter-section-02__shape-04" data-depth="0.6"></div>
         <img
           className="counter-section-02__shape-05"
-          src="assets/images/shape/edumall-shape-01.png"
+          src="education/assets/images/shape/edumall-shape-01.png"
           alt="Shape"
         />
       </div>

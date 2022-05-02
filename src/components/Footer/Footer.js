@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="footer-widget">
                   <Link to="/" className="footer-widget__logo">
                     <img
-                      src="assets/images/dark-logo.png"
+                      src="education/assets/images/dark-logo.png"
                       alt="Logo"
                       width="150"
                       height="32"
