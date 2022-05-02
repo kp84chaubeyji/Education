@@ -103,7 +103,7 @@ const Testimonial = () => {
         <img
           className="testimonial-section__shape-04"
           data-depth="0.7"
-          src="assets/images/shape/edumall-shape-01.png"
+          src="education/assets/images/shape/edumall-shape-01.png"
           alt="Shape"
         />
       </div>
