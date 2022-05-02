@@ -2,7 +2,6 @@ import './assets/css/vendor/bootstrap.min.css';
 import './assets/css/style.css';
 import './assets/css/vendor/fontawesome-all.min.css';
 import './assets/css/plugins/swiper-bundle.min.css';
-//import './assets/css/plugins/aos.css';
 import './assets/css/vendor/edumall-icon.css';
 import './App.css';
 import Navigation from './components/Header/Navigation';
