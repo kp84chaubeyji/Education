@@ -1,24 +1,21 @@
-import logo from './logo.svg';
+import './assets/css/vendor/bootstrap.min.css';
+import './assets/css/style.css';
+import './assets/css/vendor/fontawesome-all.min.css';
+import './assets/css/plugins/swiper-bundle.min.css';
+//import './assets/css/plugins/aos.css';
+import './assets/css/vendor/edumall-icon.css';
 import './App.css';
+import Navigation from './components/Header/Navigation';
+import Home from './components/Homepage/Home';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Navigation />
+    <Home />
+    <Footer />
+    </>
   );
 }
 
