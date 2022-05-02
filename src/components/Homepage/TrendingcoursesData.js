@@ -1,7 +1,7 @@
 const coursedata = [
     {
         id: 1,
-        thumbnail: 'education/assets/images/courses/courses-1.jpg',
+        thumbnail: 'assets/images/courses/courses-1.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
@@ -13,7 +13,7 @@ const coursedata = [
     },
     {
         id: 2,
-        thumbnail: 'education/assets/images/courses/courses-2.jpg',
+        thumbnail: 'assets/images/courses/courses-2.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
@@ -25,7 +25,7 @@ const coursedata = [
     },
     {
         id: 3,
-        thumbnail: 'education/assets/images/courses/courses-3.jpg',
+        thumbnail: 'assets/images/courses/courses-3.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
@@ -37,7 +37,7 @@ const coursedata = [
     },
     {
         id: 4,
-        thumbnail: 'education/assets/images/courses/courses-4.jpg',
+        thumbnail: 'assets/images/courses/courses-4.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
@@ -49,7 +49,7 @@ const coursedata = [
     },
     {
         id: 5,
-        thumbnail: 'education/assets/images/courses/courses-5.jpg',
+        thumbnail: 'assets/images/courses/courses-5.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
@@ -61,7 +61,7 @@ const coursedata = [
     },
     {
         id: 6,
-        thumbnail: 'education/assets/images/courses/courses-6.jpg',
+        thumbnail: 'assets/images/courses/courses-6.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
@@ -73,7 +73,7 @@ const coursedata = [
     },
     {
         id: 7,
-        thumbnail: 'education/assets/images/courses/courses-7.jpg',
+        thumbnail: 'assets/images/courses/courses-7.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
@@ -85,7 +85,7 @@ const coursedata = [
     },
     {
         id: 8,
-        thumbnail: 'education/assets/images/courses/courses-8.jpg',
+        thumbnail: 'assets/images/courses/courses-8.jpg',
         price: 39,
         price1: 99,
         badge_all: 'All Levels',
