@@ -284,7 +284,7 @@ const Navigation = () => {
                 </p>
               </div>
               <div className="modal-body">
-                <form action="#">
+                <form>
                   <div className="modal-form">
                     <label className="form-label">Username or email</label>
                     <input
@@ -318,23 +318,6 @@ const Navigation = () => {
                     </button>
                   </div>
                 </form>
-
-                <div className="modal-social-option">
-                  <p>or Log-in with</p>
-
-                  <ul className="modal-social-btn">
-                    <li>
-                      <Link to="/" className="btn facebook">
-                        <i className="fab fa-facebook-square"></i> Facebook
-                      </Link>
-                    </li>
-                    <li>
-                      <Link to="/" className="btn google">
-                        <i className="fab fa-google"></i> Google
-                      </Link>
-                    </li>
-                  </ul>
-                </div>
               </div>
             </div>
           </div>
