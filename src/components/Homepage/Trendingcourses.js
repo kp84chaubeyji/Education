@@ -8,6 +8,7 @@ import { Pagination, Navigation } from "swiper";
 import coursedata from "./TrendingcoursesData";
 
 const Trendingcourses = () => {
+  
   const [courseData] = useState(coursedata);
   return (
     <>
@@ -67,9 +68,13 @@ const Trendingcourses = () => {
                   slidesPerView: 4,
                 },
               }}
-              navigation={true}
+              navigation={
+               true
+              }
               modules={[Pagination, Navigation]}
               //className="mySwiper"
+              
+            
             >
               {courseData.map((curCurs, index) => {
                 const {
