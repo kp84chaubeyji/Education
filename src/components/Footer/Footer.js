@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import ScrollToTop from "react-scroll-to-top";
 
 const Footer = () => {
   return (
@@ -170,7 +171,7 @@ const Footer = () => {
         <i className="arrow-top fal fa-long-arrow-up"></i>
         <i className="arrow-bottom fal fa-long-arrow-up"></i>
       </button>
-      
+      <ScrollToTop smooth />
       
     </>
   );
